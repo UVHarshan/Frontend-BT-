@@ -1,0 +1,10 @@
+/* Show it is fixed to the top */
+body {
+    min-height: 75rem;
+    padding-top: 4.5rem;
+    background-color: #dddd;
+  }
+
+  .navbar-dark{
+    background-color: #6082B6!important;
+  }

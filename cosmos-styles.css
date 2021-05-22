@@ -1,0 +1,10 @@
+body{
+    background-color: #9FF9EB;
+}
+
+.sidebar{
+    background-color: white;
+    min-height: 600px;
+    border-right: 3px solid #ddd;
+    border-left: 3px solid #ddd;
+}
